@@ -5,5 +5,5 @@ Develope a text search application which can search text in variety of documents
 
 Objective:
 -------------
-A java web application that uses Lucene and Tika to search text in various types of documents (pdf,txt,docx,ppt,xlxs,html, etc) and display the document part in which the document is found.Along with precision and recall value.
+A java web application that uses Lucene and Tika to search text in various types of documents (pdf, txt, docx, ppt, xlxs, html etc) and display the document part in which the document is found. Along with precision and recall value.
 
