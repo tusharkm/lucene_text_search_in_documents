@@ -1,0 +1,9 @@
+# Format:
+#
+#       qnum   0   doc-name     is-relevant
+#
+#
+
+0 	 0 	 inputFiles\apache1.0.txt     	 1
+0 	 0 	 inputFiles\apache2.0.txt     	 1
+0 	 0 	 inputFiles\apache3.0.txt     	 1
