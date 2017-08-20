@@ -1,4 +1,4 @@
-# lucene_text_search_in_documents
+# Search Engine using lucene
 Problem Statement:
 -----------
 Develope a text search application which can search text in variety of documents and can retrive the snippet of text in the document. 
